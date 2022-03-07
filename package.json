@@ -1,0 +1,27 @@
+{
+  "name": "google-yolo-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gargshantnu/google-yolo-example.git"
+  },
+  "author": "shantnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gargshantnu/google-yolo-example/issues"
+  },
+  "homepage": "https://github.com/gargshantnu/google-yolo-example#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
